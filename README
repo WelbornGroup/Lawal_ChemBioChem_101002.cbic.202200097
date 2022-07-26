@@ -1,2 +1,14 @@
-This repository contains the MD trajectories and electric field data from DOI:10.1002/cbic.202200097. 
+This repository contains the PDB files and electric field data from DOI:10.1002/cbic.202200097. 
+The MD trajectories are available on Zenodo.
+
+All the simulations were done from the source PDB file PDB:1AKE such that the files are named
+
+1AKE_i_j.pdb where i is either WT, A37G, A55G, V135G or V142G and j is a number from 1 to 25 that refers to the conformation number, as described in the paper. The MD trajectories on Zenodo are labelled similarly. 
+
+The electric field data is labeled
+
+401407_i_j.csv where i and j have the meaning described above. In these files:
+- the first column is the residue number (including solvent and ligand), 
+- the second column is the average electric field and 
+- the third column is the standard deviation of the electric field
 
