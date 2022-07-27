@@ -1,5 +1,5 @@
 This repository contains the PDB files and electric field data from DOI:10.1002/cbic.202200097. 
-The MD trajectories are available on Zenodo.
+The MD trajectories are available on Zenodo, saved under the paper title (Structural Dynamics Support Electrostatic Interactions in the Active Site of Adenylate Kinase)
 
 All the simulations were done from the source PDB file PDB:1AKE such that the files are named
 
